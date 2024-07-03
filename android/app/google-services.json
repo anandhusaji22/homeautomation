@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59979582031",
+    "project_id": "homeautomated-b318b",
+    "storage_bucket": "homeautomated-b318b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59979582031:android:7df410ed0ffe7fe7ab383a",
+        "android_client_info": {
+          "package_name": "com.example.homeautomated"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc8UhMJDDR3mQNfl4aeZfkEVPhNHOy-lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
